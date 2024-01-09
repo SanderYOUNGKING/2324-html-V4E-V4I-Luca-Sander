@@ -1,0 +1,63 @@
+body { background-image:url(images/GGym_drawing-removebg-preview-transformed-transformed.png);
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+#soorten-fitness{
+    width: 1150px;
+    height: 75px;
+    background-color: aliceblue;
+    float: left;
+}
+  #calisthenics {
+    width: 388px;
+    height: 637px;
+    margin: 5px;
+    float: left;
+    border: 1px solid white;
+
+  }
+    #calisthenics img {
+width: 280px;
+height: 250px;
+margin-left: 54px;
+margin-right: 54px;
+    }
+    #calisthenics p{
+        color: aliceblue;
+    }
+  
+  #krachttraining {
+    width: 388px;
+    height: 637px;
+    margin: 5px;
+    float: left;
+    border: 1px solid white;
+  }
+  #krachttraining img{
+    width: 250px;
+    height: 250px;
+    margin-left: 69px;
+    margin-right: 69px;
+    margin-bottom: 5px ;
+  }
+  #powerlifting {
+    width: 388px;
+    height: 637px;
+    margin: 5px;
+    float: left;
+    border: 1px solid white;
+  }
+  #powerlifting img {
+    height: 250px;
+    width: 320px;
+    margin-left: 34px;
+    margin-right: 34px;
+  }
+  #wrapper {
+    height: auto;
+    width: 1200px;
+    margin: auto;
+  }

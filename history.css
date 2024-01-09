@@ -1,0 +1,66 @@
+body { background-image:url(images/GGym_drawing-removebg-preview-transformed-transformed.png);
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #verschillende-jaren{
+    width: 310px;
+    height: 535px;
+    background-color: blue;
+    float: left;
+    padding: 0px;
+   margin : 5px; 
+    
+  }
+ 
+  #history {
+    width: 230px;
+    height: 175px;
+    background-color: gray;
+    float: left;
+    margin: 5px;
+  }
+  #history-bodybuilder img {
+    width: 290px;
+    height: 245px;
+    background-color: yellow;
+    float: bottom;
+    margin:5px; 
+  }
+  #history-sportschool img{
+    width: 290px;
+    height: 245px;
+    float: left;
+    margin: 5px;
+  }
+  #history-eerste-sportscholen {
+    width: 310px;
+    height: 535px;
+    background-color: purple;
+    float: right;
+    margin: 5px;
+  }
+  #history-arnold img{
+    width: 600px;
+    height: 175px;
+    float: left;
+    margin: 5px;
+  }
+  #tussen-history-arnold {
+    width: 340px;
+    height: 175px;
+    float: left;
+    margin: 5px;
+  }
+  #balk-history{
+    width: 130px;
+    height: 535px;
+    float: left;
+  }
+  #wrapper {
+    height: auto;
+    width: 1200px;
+    margin: auto;
+  }
