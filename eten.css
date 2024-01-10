@@ -1,0 +1,42 @@
+body
+#wrapper {
+    height: auto;
+    width: 1200px;
+    margin: auto;
+  }
+  #eten{
+    height: 100px;
+    width: 1200px;
+    background-color: green;
+    float: left;
+  }
+  #eten h1{
+text-align: center;
+  }
+  #eten p{
+    text-align: center;
+      }
+  #bulk{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    float:left;
+  }
+  #bulk img{
+    width: 100px;
+    width: 100px;
+
+  }
+  #bulk h1{
+    text-align: center;
+  }
+  #cut{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    float: right ;
+  }
+  #cut img{
+    width: 100px;
+    width: 100px;
+  }
