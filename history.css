@@ -1,31 +1,35 @@
-body { background-image:url(images/GGym_drawing-removebg-preview-transformed-transformed.png);
+
+body { background-image:url(images/image.jpg);
     
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
   #verschillende-jaren{
     width: 310px;
     height: 535px;
-    background-color: blue;
     float: left;
     padding: 0px;
    margin : 5px; 
+   background-color:gray;
+   border: 3px solid gold;
     
   }
  
   #history {
     width: 230px;
     height: 175px;
-    background-color: gray;
     float: left;
     margin: 5px;
+    background-color: white;
+  }
+  #history h1{
+    text-align: center;
   }
   #history-bodybuilder img {
     width: 290px;
     height: 245px;
-    background-color: yellow;
     float: bottom;
     margin:5px; 
   }
@@ -38,9 +42,13 @@ body { background-image:url(images/GGym_drawing-removebg-preview-transformed-tra
   #history-eerste-sportscholen {
     width: 310px;
     height: 535px;
-    background-color: purple;
+    background-color:gray;
+    border: 3px solid gold;
     float: right;
     margin: 5px;
+  }
+  #history-eerste-sportscholen p{
+    color: white;
   }
   #history-arnold img{
     width: 600px;

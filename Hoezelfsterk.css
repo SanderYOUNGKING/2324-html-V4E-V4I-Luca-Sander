@@ -48,8 +48,10 @@ body
   #oefeningen h1{
    text-align: center;
   }
+
   #wrapper {
     height: auto;
     width: 1200px;
     margin: auto;
   }
+  
