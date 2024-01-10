@@ -5,3 +5,41 @@ body { background-image:url(images/GGym_drawing-removebg-preview-transformed-tra
     -o-background-size: cover;
     background-size: cover;
   }
+  #titel-hoezelfsterk{
+    width: 850px;
+    height: 50px;
+    background-color: red;
+    float: left;
+  }
+  #foto1-hoezelfsterk{
+    width: 175px;
+    height: 150px;
+    float: left;
+  }
+  #foto1-hoezelfsterk img{
+    width: 175px;
+    height: 150x;
+    float: left;
+  }
+  #foto-hoezelfsterk{
+    width: 225px;
+    height: 200px;
+    float: left;
+  }
+  #foto-hoezelfsterk img{
+    width: 225px;
+    height: 200px;
+    float: left;
+  }
+  #foto-link-eten{
+    width: 300px;
+    height: 50px;
+    background-color: blue;
+    float: left;
+  }
+  #oefeningen{
+    width: 300px;
+    height: 50px;
+    background-color: yellow;
+    float: left;
+  }
