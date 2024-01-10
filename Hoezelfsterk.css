@@ -1,45 +1,56 @@
-body { background-image:url(images/GGym_drawing-removebg-preview-transformed-transformed.png);
-    
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+body 
   #titel-hoezelfsterk{
-    width: 850px;
+    width: 800px;
     height: 50px;
-    background-color: red;
     float: left;
   }
+  #titel-hoezelfsterk h1{
+    text-align: center;
+  }
   #foto1-hoezelfsterk{
-    width: 175px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     float: left;
   }
   #foto1-hoezelfsterk img{
-    width: 175px;
-    height: 150x;
+    width: 200px;
+    height: 200px;
     float: left;
   }
   #foto-hoezelfsterk{
-    width: 225px;
+    width: 200px;
     height: 200px;
     float: left;
   }
   #foto-hoezelfsterk img{
-    width: 225px;
+    width: 200px;
     height: 200px;
     float: left;
   }
   #foto-link-eten{
-    width: 300px;
-    height: 50px;
-    background-color: blue;
+    width: 400px;
+    height: 450px;
+    float: left;
+  }
+  #foto-link-eten p{
+   text-align: center;
+  }
+  #foto-link-eten img{
+    width: 400px;
+    height: 450px;
     float: left;
   }
   #oefeningen{
     width: 300px;
     height: 50px;
     background-color: yellow;
-    float: left;
+    float: right;
+  }
+  #oefeningen p{
+   text-align: center;
+  }
+  #wrapper {
+    height: auto;
+    width: 1200px;
+    margin: auto;
   }
