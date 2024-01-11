@@ -13,6 +13,7 @@ body
   }
   #titel-hoezelfsterk h1{
     text-align: center;
+    color: white;
   }
   #foto1-hoezelfsterk{
     width: 200px;
@@ -41,6 +42,7 @@ body
   }
   #foto-link-eten p{
    text-align: center;
+   color: white;
   }
   #foto-link-eten img{
     width: 400px;
@@ -54,7 +56,14 @@ body
   }
   #oefeningen h1{
    text-align: center;
+   color: white;
   }
+  #oefeningen p{
+    color: white;
+   }
+   #oefeningen tr{
+    color: white;
+   }
 
   #wrapper {
     height: auto;
