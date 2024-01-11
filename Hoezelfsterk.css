@@ -1,5 +1,7 @@
 body
-{ background-image:url(images/Naamloze-tekening.jpg);
+{
+  margin: 0px;
+  background-image:url(images/Naamloze-tekening.jpg);
     
   -webkit-background-size: cover;
   -moz-background-size: cover;

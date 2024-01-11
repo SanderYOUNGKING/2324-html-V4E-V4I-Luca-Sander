@@ -1,4 +1,6 @@
-body { background-image:url(images/image.jpg);
+body {
+  margin: 0px;
+  background-image:url(images/image.jpg);
     
     -webkit-background-size: cover;
     -moz-background-size: cover;
