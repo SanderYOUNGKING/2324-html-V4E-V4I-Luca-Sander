@@ -7,12 +7,15 @@ body { background-image:url(images/GGym_drawing-removebg-preview-transformed-tra
 }
 div #sidebalk1 {
   float: right;
-  
-  width: 1200px;
+  clear: both;
+  width: 395px;
   height: 300px;
+  background-color: #cccccc;
 }
 div #sidebalk2 {
+  background-color: aliceblue;
   float: left;
+  clear: both;
   width: 395px;
   height: 300px;
 }
@@ -21,6 +24,7 @@ div #contact-us {
   background-color: #cccccc;
   width: 175px;
   height: 175px;
+  clear: both;
   float: left;
   margin: 5px;
 }
@@ -33,6 +37,7 @@ div #contact-us p {
 #hoe-zelf-sterk-worden img,
 #history-fitness img {
   float: left;
+  clear: both;
  margin: 5px; 
   height: 175px;
   width: 175px;
@@ -41,7 +46,8 @@ div #contact-us p {
 
 #contact-us,
 #soorten-fitness img {
-  float: bottom;
+  float: left;
+  clear: both;
   margin: 5px;
   height: 175px;
   width: 175px;
@@ -49,6 +55,7 @@ div #contact-us p {
 }
 
 #wrapper {
+  clear: both;
   height: auto;
   width: 1200px;
   margin: auto;

@@ -1,4 +1,11 @@
-body 
+body
+{ background-image:url(images/Naamloze-tekening.jpg);
+    
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
   #titel-hoezelfsterk{
     width: 800px;
     height: 50px;
@@ -54,4 +61,3 @@ body
     width: 1200px;
     margin: auto;
   }
-  
