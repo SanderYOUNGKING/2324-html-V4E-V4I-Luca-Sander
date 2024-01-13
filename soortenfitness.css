@@ -25,6 +25,7 @@ body {
     #calisthenics h1{
  color: white;
  text-align: center;
+ font-family: Helvetica, Arial, sans-serif;
   
 
   }
@@ -38,6 +39,7 @@ margin-bottom: 10px;
     #calisthenics p{
         color: aliceblue;
         text-align: center;
+        font-family: Helvetica, Arial, sans-serif;
     }
   
   #krachttraining {
@@ -56,10 +58,12 @@ margin-bottom: 10px;
   #krachttraining h1{
     color: white;
     text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
   }
   #krachttraining p{
     color: white;
     text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
   }
   #powerlifting {
     width: 388px;
@@ -77,6 +81,7 @@ margin-bottom: 10px;
   #powerlifting p{
     color: white;
     text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
   }
   #powerlifting h1{
     color: white;
@@ -91,6 +96,7 @@ margin-bottom: 10px;
   }
   #soorten-fitness h1{
     text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
   }
   ul {
     list-style-type: none;

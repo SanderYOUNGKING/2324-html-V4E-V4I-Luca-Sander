@@ -16,6 +16,7 @@ body
   #titel-hoezelfsterk h1{
     text-align: center;
     color: white;
+    font-family: Helvetica, Arial, sans-serif;
   }
   #foto1-hoezelfsterk{
     width: 200px;
@@ -43,6 +44,7 @@ body
     float: left;
   }
   #foto-link-eten p{
+    font-family: Helvetica, Arial, sans-serif;
    text-align: center;
    color: white;
   }
@@ -59,11 +61,14 @@ body
   #oefeningen h1{
    text-align: center;
    color: white;
+   font-family: Helvetica, Arial, sans-serif;
   }
   #oefeningen p{
+    font-family: Helvetica, Arial, sans-serif;
     color: white;
    }
    #oefeningen tr{
+    font-family: Helvetica, Arial, sans-serif;
     color: white;
     border-color: white;
    }

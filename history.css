@@ -18,7 +18,9 @@ body {
    border: 3px solid black;
     
   }
- 
+ #verschillende-jaren dt, dd{
+  font-family: Helvetica, Arial, sans-serif;
+ }
   #history {
     width: 230px;
     height: 175px;
@@ -29,6 +31,7 @@ body {
     text-align: center;
     color: white;
     font-size: 40px;
+    font-family: Helvetica, Arial, sans-serif;
   }
   #history-bodybuilder img {
     width: 290px;
@@ -52,6 +55,7 @@ body {
   }
   #history-eerste-sportscholen p{
     color: black;
+    font-family: Helvetica, Arial, sans-serif;
   }
   #history-arnold img{
     width: 600px;
