@@ -6,12 +6,14 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    
+  
   }
 #soorten-fitness{
     width: 1200px;
     height: 75px;
-    background-color: aliceblue;
     float: left;
+    color: white;
 }
   #calisthenics {
     width: 388px;
@@ -19,6 +21,11 @@ body {
     margin: 5px;
     float: left;
     border: 1px solid white;
+  }
+    #calisthenics h1{
+ color: white;
+ text-align: center;
+  
 
   }
     #calisthenics img {
@@ -26,9 +33,11 @@ width: 280px;
 height: 250px;
 margin-left: 54px;
 margin-right: 54px;
+margin-bottom: 10px; 
     }
     #calisthenics p{
         color: aliceblue;
+        text-align: center;
     }
   
   #krachttraining {
@@ -43,7 +52,14 @@ margin-right: 54px;
     height: 250px;
     margin-left: 69px;
     margin-right: 69px;
-    margin-bottom: 5px ;
+  }
+  #krachttraining h1{
+    color: white;
+    text-align: center;
+  }
+  #krachttraining p{
+    color: white;
+    text-align: center;
   }
   #powerlifting {
     width: 388px;
@@ -58,6 +74,15 @@ margin-right: 54px;
     margin-left: 34px;
     margin-right: 34px;
   }
+  #powerlifting p{
+    color: white;
+    text-align: center;
+  }
+  #powerlifting h1{
+    color: white;
+    text-align: center;
+  }
+
   #wrapper {
     height: auto;
     width: 1200px;

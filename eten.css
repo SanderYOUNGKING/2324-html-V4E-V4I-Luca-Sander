@@ -18,10 +18,9 @@ body
   }
   #eten h1{
 text-align: center;
+color: white;
   }
-  #eten p{
-    text-align: center;
-      }
+
   #bulk{
     height: 500px;
     width: 400px;
@@ -36,6 +35,11 @@ text-align: center;
   }
   #bulk h1{
     text-align: center;
+    color: white;
+  }
+  #bulk p{
+    text-align: center;
+    color: white;
   }
   #cut{
     height: 500px;
@@ -51,6 +55,11 @@ text-align: center;
   }
   #cut h1{
     text-align: center;
+    color: white;
+  }
+  #cut p{
+    text-align: center;
+    color: white;
   }
   ul {
     list-style-type: none;

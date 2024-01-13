@@ -65,7 +65,9 @@ body
    }
    #oefeningen tr{
     color: white;
+    border-color: white;
    }
+
 
   #wrapper {
     height: auto;
