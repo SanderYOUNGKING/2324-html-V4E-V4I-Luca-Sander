@@ -12,35 +12,6 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
-
-/*
-div #sidebalk1 {
-  float: right;
-  width: 395px;
-  height: 300px;
-  background-color: #cccccc;
-}
-div #sidebalk2 {
-  background-color: aliceblue;
-  float: left;;
-  width: 395px;
-  height: 300px;
-}
-
-div #contact-us {
-  background-color: #cccccc;
-  width: 175px;
-  height: 175px;
-  float: left;
-  margin: 5px;
-}
-
-div #contact-us p {
-  color: blue;
-  text-align: center;
-}
-*/
-
 #hoe-zelf-sterk-worden img,
 #history-fitness img {
   float: left;
@@ -50,7 +21,7 @@ div #contact-us p {
   border: 10px solid black;
 }
 
-#contact-us,
+#security-foto img,
 #soorten-fitness img {
   float: left;
   margin: 5px;
